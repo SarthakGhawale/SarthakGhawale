@@ -3,7 +3,6 @@
 <div align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description of the image">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakghawale&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakghawale" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
