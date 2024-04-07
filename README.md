@@ -12,7 +12,7 @@
 </p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="Sarthak Ghawale Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SarthakGhawale}/count.svg" alt="Sarthak Ghawale Visitor's count" /></p>
 
 <p align="center">
   <a href="https://github.com/PratyayDhond">
