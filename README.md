@@ -12,13 +12,13 @@
 </p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="Pratyay Dhond Visitor's count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="Sarthak Ghawale Visitor's count" /></p>
 
 <p align="center">
   <a href="https://github.com/PratyayDhond">
-    <img title="GithubStats" alt="Pratyay's streak" src="https://streak-stats.demolab.com?user=PratyayDhond&theme=gotham&hide_border=true&mode=weekly"/>
+    <img title="GithubStats" alt="Pratyay's streak" src="https://streak-stats.demolab.com?user=SarthakGhawale&theme=gotham&hide_border=true&mode=weekly"/>
   </a>
 </p>
 
 <h4 align="center">Profile stats</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PratyayDhond&count_private=true&show_icons=true&theme=gotham" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SarthakGhawale&count_private=true&show_icons=true&theme=gotham" /></p>
