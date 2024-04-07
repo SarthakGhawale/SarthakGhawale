@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sarthak Ghawale</h1>
 <h3 align="center">A passionate Web developer , AI enthusiast from India</h3>
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Description of the image">
