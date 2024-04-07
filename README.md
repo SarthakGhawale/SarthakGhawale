@@ -12,7 +12,6 @@
 <a href="https://www.youtube.com/@winexplains" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@winexplains" height="30" width="40" /></a>
 </p>
 </div>
-<h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{SarthakGhawale}/count.svg" alt="Sarthak Ghawale Visitor's count" /></p>
 
 <p align="center">
