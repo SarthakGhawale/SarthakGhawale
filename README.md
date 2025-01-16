@@ -14,9 +14,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{SarthakGhawale}/count.svg" alt="Sarthak Ghawale Visitor's count" /></p>
 
 <p align="center">
-  <a href="https://github.com/PratyayDhond">
-    <img title="GithubStats" alt="Pratyay's streak" src="https://streak-stats.demolab.com?user=SarthakGhawale&theme=gotham&hide_border=true&mode=weekly"/>
-  </a>
 </p>
 
 <h4 align="center">Profile stats</h4>
